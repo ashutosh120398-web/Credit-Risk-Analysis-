@@ -1,0 +1,18 @@
+{
+ "applicant": {
+  "AUC": 0.899,
+  "Accuracy": 0.894,
+  "Precision": 0.898,
+  "Recall": 0.582,
+  "F1": 0.706,
+  "Brier": 0.082
+ },
+ "full": {
+  "AUC": 0.939,
+  "Accuracy": 0.932,
+  "Precision": 0.939,
+  "Recall": 0.738,
+  "F1": 0.826,
+  "Brier": 0.055
+ }
+}
